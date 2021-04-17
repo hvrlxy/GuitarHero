@@ -1,0 +1,25 @@
+24
+pe  -1.0
+tu  0.0
+ztu 0.0
+pu  0.0
+tu  0.0
+vtu 0.0
+ce  0.0
+tu  0.0
+ctu 0.0
+ne  0.0
+btu 0.0
+vtu 0.0
+ce  0.0
+tu  0.0
+vtu 0.0
+ct  0.0
+xru 0.0
+zru 0.0
+ce  0.0
+tu  0.0
+tu  0.0
+ce  0.0
+tu  0.0
+tu  0.0
